@@ -7,7 +7,7 @@ I am interested in Machine Learning Generative AI Data Analytics Business Intell
 ## About me
 
 - M2 Artificial Intelligence & Big Data at ECE Paris
-- Mechatronics Engineer
+- Applied Computer Engineer
 - Based in Paris
 - Looking for a 4 to 6 month internship in AI Data GenAI Machine Learning or Business Intelligence
 - Interested in building useful AI and data solutions
