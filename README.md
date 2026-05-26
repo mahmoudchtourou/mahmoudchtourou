@@ -1,9 +1,8 @@
 # Hi I’m Mahmoud Chtourou
 
-I am currently pursuing a Master 2 in Artificial Intelligence & Big Data at ECE Paris and I am also a Mechatronics Engineer.
+I am currently pursuing a Master’s degree in Artificial Intelligence & Big Data at ECE Paris, and I am also a Computer Science Engineer.
 
-I am interested in Machine Learning Generative AI Data Analytics Business Intelligence and Automation.
-
+I am passionate about Machine Learning, Generative AI, Data Analytics, Business Intelligence, and Automation.
 ## About me
 
 - M2 Artificial Intelligence & Big Data at ECE Paris
